@@ -1,6 +1,6 @@
 ## Knapsack Problem (Instances)
 
-| line no | meaning         |
+| line no | detail         |
 | ------- | --------------- |
 | 0       | number of items |
 | 1 to n  | weight and cost |
